@@ -18,6 +18,6 @@ Git is available at the command line.
 * `git init` creates a Git repository in the current working directory.
 * `git clone [repo]` copies a repository on GitHub to the local machine.
 * `git status` shows the state of a project managed with git.
-* `git add [file(s)]` enables version tracking for the specified files.
+* `git add [file(s)]` stages the specified files for a commit.
 * `git commit` saves a 'snapshot' of the project.
-* `git push` enacts commits and uploads them to GitHub.
+* `git push origin main` enacts commits and uploads them to GitHub.
